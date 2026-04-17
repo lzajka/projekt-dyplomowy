@@ -1,0 +1,5 @@
+names:
+  0: Stluszczenie
+path: .
+train: train.txt
+val: val.txt
